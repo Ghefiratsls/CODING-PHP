@@ -1,0 +1,21 @@
+<?php
+    //komentar BELAJAR PHP
+    /*
+    Komentar dalam bentuk beberapa baris
+    */
+    //Standar Output (menampilkan hasil di layar monitor)
+    //Kita bisa gunakan echo, print,
+    //print_r (khusus mencetak isi array)
+    //var_dump (melihat isi dari variabel)
+    //print_r dan var_dump hanya digunakan untuk programmer pada saat debugging
+
+    //coba 1
+    echo "HALLO";
+
+    //coba2
+    print_r("HALLO");
+
+    //coba3
+    var_dump("HALLO");
+
+?>

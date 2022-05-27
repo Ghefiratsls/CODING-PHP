@@ -1,0 +1,11 @@
+<?php
+/**
+ * Terkadang anda ingin menggunakan komentar dalam bentuk beberapa baris
+ * Anda bisa menulisnya seperti ini
+ * 
+ * NB: Ini biasa digunakan untuk menjelaskan logika/alur program yang cukup panjang
+ * Perbedaan antara komentar inline biasa dengan multiple-lines adalah multiple-lines bisa dalam bentuk beberapa baris
+ */
+
+echo "HALLO APA KABAR !";
+ ?>
